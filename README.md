@@ -1,9 +1,10 @@
 Integrantes:
 Sebastian Juárez - 21471 
-
 Gabriel García - 21352 
-
 Gerardo Pineda - 22880 
+
+Link Del Video
+https://youtu.be/VtaTndUXcJY
 
 Extracción de Productos desde HTML
 
@@ -40,3 +41,4 @@ El archivo productos.csv generado contiene dos columnas:
 Nombre del Producto: Nombre extraído del HTML.
 
 URL de la Imagen: Dirección de la imagen del producto.
+
